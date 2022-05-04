@@ -1,0 +1,40 @@
+_repo: Life-of-Mozart_67828
+_version: 0.0.1
+alternative_title: Mozart's Leben. English
+contributor:
+  translator:
+    agent_name: Lalor, John J. (John Joseph)
+    deathdate: 1899
+    gutenberg_agent_id: '32857'
+    url: http://www.gutenberg.org/2009/agents/32857
+    wikipedia: https://en.wikipedia.org/wiki/John_Joseph_Lalor
+creator:
+  author:
+    agent_name: Nohl, Ludwig
+    aliases:
+    - Nohl, Louis
+    - Nohl, Karl Friedrich Ludwig
+    birthdate: 1831
+    deathdate: 1885
+    gutenberg_agent_id: '4810'
+    url: http://www.gutenberg.org/2009/agents/4810
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Ludwig_Nohl
+    - https://en.wikipedia.org/wiki/Ludwig_Nohl
+description: ''
+gutenberg_issued: '2022-04-14'
+identifiers:
+  gutenberg: '67828'
+  lccn: 04018081
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Biographies of Musicians
+subjects:
+- !lcsh 'Mozart, Wolfgang Amadeus, 1756-1791'
+- !lcc 'ML'
+- !lcsh 'Composers -- Austria -- Biography'
+- GITenberg
+title: Life of Mozart
+url: http://www.gutenberg.org/ebooks/67828
